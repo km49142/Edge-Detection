@@ -1,0 +1,15 @@
+# Ignore datasets and model files
+BSR_bsds500/
+*.h5
+*.keras
+*.mp4
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter junk
+.ipynb_checkpoints/
+
+# VSCode settings (if you’re using it)
+.vscode/
