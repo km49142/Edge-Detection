@@ -29,3 +29,5 @@ U-Net	Learns contextual edge patterns	Slower training; needs more data for best 
 Final Accuracy ~95%
 
 Loss trend: Decreased from ~0.61 to ~0.11 over 10 epochs
+
+Video Demo: The video is uploaded to GitHub, simply download and watch the MP4 for the results.
